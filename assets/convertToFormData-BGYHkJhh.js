@@ -1,0 +1,1 @@
+const i=t=>{const a=new FormData,o=(e,r)=>{Array.isArray(r)?r.every(n=>n instanceof File)?r.forEach(n=>{a.append(e,n)}):a.append(e,JSON.stringify(r)):a.append(e,r)};for(const[e,r]of Object.entries(t))o(e,r);return a};export{i as c};

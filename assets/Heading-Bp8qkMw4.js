@@ -1,0 +1,1 @@
+import{r as x,j as e}from"./index-Da2ePf2G.js";const a=({title:t,icon:s})=>e.jsx("div",{className:"flex items-center gap-3",children:e.jsxs("h1",{className:"font-semibold text-pure xl:text-2xl md:text-xl text-lg flex items-center gap-2 ",children:[s&&e.jsx("i",{className:`uil uil-${s}`}),e.jsx("span",{children:t})]})}),r=x.memo(a);export{r as H};

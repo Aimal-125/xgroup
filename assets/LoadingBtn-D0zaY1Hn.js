@@ -1,0 +1,1 @@
+import{r as e,j as s}from"./index-Da2ePf2G.js";import{C as r}from"./ClipLoader-BI8tAI14.js";const t=()=>s.jsxs("p",{className:"flex items-center gap-2 justify-center w-full",children:[s.jsx(r,{size:16,color:"white"}),s.jsx("span",{children:"Loading..."})]}),a=e.memo(t);export{a as L};
