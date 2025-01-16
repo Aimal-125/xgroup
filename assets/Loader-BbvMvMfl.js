@@ -1,0 +1,1 @@
+import{r as e,j as r}from"./index-C2xFYc7i.js";import{L as o}from"./LoadingBtn-cMEELRIl.js";const s=()=>r.jsx("div",{className:"w-full h-[200px] rounded-md border border-gray-700 flex items-center justify-center mt-2 box-shadow",children:r.jsx(o,{})}),d=e.memo(s);export{d as L};
