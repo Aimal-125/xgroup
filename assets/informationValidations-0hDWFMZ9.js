@@ -1,0 +1,1 @@
+import{c as i,a as e,b as r}from"./index.esm-CUPn6-XP.js";const a=i({title:e().required("Title is required"),description:e().required("Description is required"),attachment:r().required("Attached image is required"),image:r().required("Featured image is required")});export{a as I};
